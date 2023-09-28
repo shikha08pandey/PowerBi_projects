@@ -1,2 +1,2 @@
 # PowerBi_Projects
-Chrun Analysis (Banking Domain)
+Churn Analysis (Banking Domain)
